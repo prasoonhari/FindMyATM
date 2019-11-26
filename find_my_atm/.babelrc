@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "react",
+    "react-native"
+  ],
+  "plugins": [
+    "transform-class-properties",
+    "add-module-exports",
+    "transform-decorators-legacy"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "775422256061",
+    "project_id": "find-my-atm-149321"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775422256061:android:cb8a692581ba514e",
+        "android_client_info": {
+          "package_name": "com.find_my_atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775422256061-c3ihsrk6ltu0evn1ove3avrc816n6416.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.find_my_atm",
+            "certificate_hash": "1917CCD40A6C9096E0B967483808D3DBB5B61C0F"
+          }
+        },
+        {
+          "client_id": "775422256061-ro4mqg313n1bfi2hvibp87k0ne3utf92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6d_iozq3T5RrmEHVIcRZlyk3iDanlp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-87349239-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">find_my_atm</string>
+    <string name="google_maps_api_key">AIzaSyCDUXLeFJmjp-FhnTaro_MJ0umjLNrT6wE</string>
+</resources>
